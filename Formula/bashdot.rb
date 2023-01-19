@@ -8,7 +8,7 @@ class Bashdot < Formula
   homepage "https://github.com/bashdot/bashdot"
   url "https://github.com/bashdot/bashdot/archive/4.1.7.tar.gz"
   version "4.1.7"
-  sha256 "61e981f825078b784a28d62e51a5c774adb27523d386bed80f103b83e3f8248e"
+  sha256 "747f2ae88b7df78caccecdd72126f522f51aa4dcf85da2bfbda93acc485c4688"
 
   def install
     bin.install "bashdot"
